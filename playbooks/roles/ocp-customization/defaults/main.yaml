@@ -4,6 +4,6 @@
 workdir: ~/ocp4-workdir
 rhcos_kernel_options: []
 sysctl_tuned_options: false
-powervm_rmc: true
+powervm_rmc: false
 rsct_image: "quay.io/powercloud/rsct-ppc64le:latest"
 node_labels: {}
